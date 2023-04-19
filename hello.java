@@ -2,7 +2,7 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("bossu ra lucha"); 
-         System.out.println("bossu ra lucha"); 
+        System.out.println("mannasu marchukundam"); 
+         System.out.println("mannasu marchukundam"); 
     }
 }
